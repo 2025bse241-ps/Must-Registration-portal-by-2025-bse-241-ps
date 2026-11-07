@@ -1,5 +1,9 @@
 # MUST Online Application Portal
 
+Click here for preview 
+
+http://127.0.0.1:8484/index.html 
+
 A complete, self-contained front-end for the Mbarara University of Science and
 Technology online application portal — sign in, create an account, recover a
 password, and a full applicant dashboard (stages, documents, fee, messages,
